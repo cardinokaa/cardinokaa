@@ -1,11 +1,12 @@
-# Привет, я [Андрей](https://vk.com/zarter_dud) 👋
+<h1 align="center">Привет, я Андрей</h1>
 
+#
 [![Профильные просмотры](https://komarev.com/ghpvc/?username=cardinokaa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cardinokaa)
 [![Подписчики](https://img.shields.io/github/followers/cardinokaa?label=Follow&style=social)](https://github.com/cardinokaa)
 
 💻 **Обо мне:**
 - 🌱 Сейчас изучаю: [Алгоритмы и структуры данных](https://informatics.msk.ru/course/index.php?categoryid=357)
-- 📫 Как связаться: [Telegram](https://t.me/cardinokaa)
+- 📫 Как связаться: [Telegram](https://t.me/cardinokaa) или [VK](https://vk.com/zarter_dud)
 
 ## 🛠 Технологии и инструменты
 
