@@ -1,7 +1,9 @@
-<h1 align="center">Привет, я Андрей</h1>
+<p align="center"><a href="https://cardinokaa.github.io"><img width="80%" alt="Привет, я Андрей!" src="./assets/header.png" /></a></p>
+
 
 [![Профильные просмотры](https://komarev.com/ghpvc/?username=cardinokaa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cardinokaa)
 [![Подписчики](https://img.shields.io/github/followers/cardinokaa?label=Follow&style=social)](https://github.com/cardinokaa)
+
 
 💻 **Обо мне:**
 - 🌱 Сейчас изучаю: [Алгоритмы и структуры данных](https://informatics.msk.ru/course/index.php?categoryid=357)
