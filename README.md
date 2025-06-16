@@ -1,6 +1,5 @@
 <h1 align="center">Привет, я Андрей</h1>
 
-#
 [![Профильные просмотры](https://komarev.com/ghpvc/?username=cardinokaa&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/cardinokaa)
 [![Подписчики](https://img.shields.io/github/followers/cardinokaa?label=Follow&style=social)](https://github.com/cardinokaa)
 
