@@ -7,7 +7,7 @@
 
 💻 **Обо мне:**
 - 🌱 Сейчас изучаю: [Алгоритмы и структуры данных](https://informatics.msk.ru/course/index.php?categoryid=357)
-- 📫 Как связаться: [Telegram](https://t.me/cardinokaa) или [VK](https://vk.com/zarter_dud)
+- 📫 Как связаться: [Telegram](https://t.me/cardinokaa) или [VK](https://vk.com/cardinokaa)
 
 ## 🛠 Технологии и инструменты
 
